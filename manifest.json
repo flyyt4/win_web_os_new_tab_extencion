@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Fly custom new tab",
+  "version": "1.0.0",
+  "actions": {
+    "default_popup": "index.html"
+  }
+}
